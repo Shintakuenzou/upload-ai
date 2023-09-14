@@ -27,7 +27,7 @@ Utilizei o shadcn/ui que é coleção de componentes reutilizáveis e personaliz
 ## Instalação e Uso
 - Instale as dependências:
   ```npm install```
-- Configure suas credenciais da OpenAI:
+- Configure suas credenciais da OpenAI no seu backend na pasta .env:
   ```OPENAI_API_KEY=sua-chave-de-api-aqui```
 - Inicie a aplicação:
   ```npm run dev```
