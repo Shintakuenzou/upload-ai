@@ -5,7 +5,9 @@ Utilizei o shadcn/ui que é coleção de componentes reutilizáveis e personaliz
 
 ## Funcionalidades Principais
 - **Upload de Vídeos e converter em áudio:** Faça o upload de seus vídeos com facilidade e converte em áudio usando a IA.
-- **Geração de Títulos Cativantes:** Utilize a IA para criar títulos atraentes com base no conteúdo do vídeo.
+- **Prompt de transcrição:** Coloque algumas paralvras chaves, técnicas para ajudar na hora da IA detectar as palavras ditas no vídeo na hora da transcrição.
+- **Prompt de base:** Prompts que são basicamente umas instruções para a nossa IA gerar materias com base no vídeo que fizemos upload. Ao selecionar qual o modelo de prompt você quer ele mostrará um template já pronto e editável (Se caso for editar o prompt já pronto não tire a variáve ```{transcription}``` pois essa variável incluio texto gerado a partir da transcrição do vídeo carregado.).
+- **Temperatura:** A tempertura determina o nível de criatividade e ao mudar ela a IA retorna uma respostas mais criativas porém com mais chances de erros.
 - **Fácil de Usar:** Uma interface amigável e intuitiva torna a experiência de upload e geração de metadados rápida e simples.
 
 ## Tecnologias usada no Front-End
