@@ -24,6 +24,7 @@ Utilizei o shadcn/ui que é coleção de componentes reutilizáveis e personaliz
 - Fastify
 - openai
 - zod
+- Node
  
 
 ## Instalação e Uso
