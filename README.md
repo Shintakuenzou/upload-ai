@@ -4,7 +4,7 @@ O Upload-AI é um projeto que utiliza as APIs da OpenAI para permitir o upload d
 Utilizei o shadcn/ui que é coleção de componentes reutilizáveis e personalizáveis ​​para copiar e colar em algumas partes desse projeto.
 
 ## Funcionalidades Principais
-- **Upload de Vídeos:** Faça o upload de seus vídeos com facilidade.
+- **Upload de Vídeos e converter em áudio:** Faça o upload de seus vídeos com facilidade e converte em áudio usando a IA.
 - **Geração de Títulos Cativantes:** Utilize a IA para criar títulos atraentes com base no conteúdo do vídeo.
 - **Fácil de Usar:** Uma interface amigável e intuitiva torna a experiência de upload e geração de metadados rápida e simples.
 
